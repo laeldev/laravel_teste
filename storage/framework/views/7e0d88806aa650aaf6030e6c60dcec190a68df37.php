@@ -1,0 +1,1 @@
+listagem dos usuarios<?php /**PATH /var/www/resources/views/users/index.blade.php ENDPATH**/ ?>
